@@ -1,6 +1,6 @@
 # Data Structures Using C — Practicals
 
-This repository contains the C programs for Practical 1 to Practical 13, organized in numerical order.
+This repository contains C practical programs organized by practical number. Practical 14 is not currently listed because its program details have not been provided.
 
 ## Practical Index
 
@@ -52,10 +52,14 @@ This repository contains the C programs for Practical 1 to Practical 13, organiz
 - [13(A) Multiplication Using Recursion](Practical-13/Practical-13a_Multiplication_Using_Recursion.c)
 - [13(B) Reverse a String Using Recursion](Practical-13/Practical-13b_Reverse_String_Using_Recursion.c)
 
+
+### Practical 15 — Linear Queue Using Array
+- [Insert, Delete, Count, and Display Queue Elements](Practical-15/Practical-15_Linear_Queue_Insert_Delete_Array.c)
+
 ## How to Use
 1. Open the practical folder you need.
 2. Open the `.c` file.
 3. Compile and run it using a C compiler such as GCC.
 
 **Language:** C
-**Topics:** Arrays, strings, bitwise operators, searching, sorting, linked lists, stacks, parenthesis checking, and recursion.
+**Topics:** Arrays, strings, bitwise operators, searching, sorting, linked lists, stacks, parenthesis checking, recursion, and linear queues.
