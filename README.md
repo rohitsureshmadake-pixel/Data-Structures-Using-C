@@ -59,10 +59,13 @@ This repository contains C practical programs organized by practical number. Pra
 ### Practicals 17 and 18 — Binary Search Tree (BST)
 - [BST Construction, Search, Inorder, Preorder, and Postorder Traversals](Practical-17-18/Practical-17-18_BST_Search_Traversals.c)
 
+### Practical 19 — Graph Using Matrix Representation
+- [Display Graph Using Adjacency Matrix](Practical-19/Practical-19_Graph_Adjacency_Matrix.c)
+
 ## How to Use
 1. Open the practical folder you need.
 2. Open the `.c` file.
 3. Compile and run it using a C compiler such as GCC.
 
 **Language:** C
-**Topics:** Arrays, strings, bitwise operators, searching, sorting, linked lists, stacks, parenthesis checking, recursion, linear queues, and binary search trees.
+**Topics:** Arrays, strings, bitwise operators, searching, sorting, linked lists, stacks, parenthesis checking, recursion, linear queues, binary search trees, and graphs.
