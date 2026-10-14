@@ -56,10 +56,13 @@ This repository contains C practical programs organized by practical number. Pra
 ### Practical 15 — Linear Queue Using Array
 - [Insert, Delete, Count, and Display Queue Elements](Practical-15/Practical-15_Linear_Queue_Insert_Delete_Array.c)
 
+### Practicals 17 and 18 — Binary Search Tree (BST)
+- [BST Construction, Search, Inorder, Preorder, and Postorder Traversals](Practical-17-18/Practical-17-18_BST_Search_Traversals.c)
+
 ## How to Use
 1. Open the practical folder you need.
 2. Open the `.c` file.
 3. Compile and run it using a C compiler such as GCC.
 
 **Language:** C
-**Topics:** Arrays, strings, bitwise operators, searching, sorting, linked lists, stacks, parenthesis checking, recursion, and linear queues.
+**Topics:** Arrays, strings, bitwise operators, searching, sorting, linked lists, stacks, parenthesis checking, recursion, linear queues, and binary search trees.
